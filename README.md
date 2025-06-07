@@ -1,7 +1,7 @@
 
 ### Instalasi
 
-```bash
+   ```bash
    cd SafeTalksAPI
    ```
 
