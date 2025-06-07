@@ -42,15 +42,3 @@ python app.py
 API akan berjalan di: `http://127.0.0.1:5000`
 
 ---
-
-### Contoh Request (Postman)
-
-* **Method**: `POST`
-* **Endpoint**: `http://127.0.0.1:5000/predict`
-* **Body**: JSON (raw)
-
-```json
-{
-  "image": "https://link-to-image.jpg"
-}
-```
