@@ -10,3 +10,4 @@ flasgger>=0.9.5
 h5py>=3.8.0
 nlpaug>=1.1.0
 nltk>=3.7
+gunicorn>=20.1.0
